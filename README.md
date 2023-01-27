@@ -4,7 +4,7 @@
 You have been invited to a meeting with the CEO of your engineering company, Company "X", which has offices in both the US East Coast and US West Coast. They currently host all their data and applications in a single East Coast data center and are constantly worried about both cost and resiliency.
 
 ## Project Statement
-Compnay "X" currently hosts all their data and applications in a single East Coast data center and are constantly worried about both cost and resiliency. Below is how their current servers are configured.
+Company "X" currently hosts all their data and applications in a single East Coast data center and are constantly worried about both cost and resiliency. Below is how their current servers are configured.
 
 ### Server(s):
 * Purpose: Windows/Linux Server
